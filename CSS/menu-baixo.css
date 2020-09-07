@@ -1,0 +1,12 @@
+.whatsapp {
+    position: absolute;
+    border: solid 1vw black;
+    font-size: 4em;
+    margin: .8%;
+    width: 90vw;
+    height: 90vh;
+    bottom: 5%;
+    right: 5%;
+    z-index: 10000000;
+
+}

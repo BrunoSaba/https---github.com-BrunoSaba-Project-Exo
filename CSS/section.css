@@ -1,0 +1,32 @@
+
+#News h2 {
+    color: white;
+    text-align: center;
+
+}
+
+#News hr {
+    border:black solid 2px;
+    width: 200rem;
+    margin: 0 auto;
+    color: white;
+}
+
+#conteudoP {
+    background: url("")
+    
+}
+
+.col-md-3{
+    margin: 0 5px 5px 0;
+    animation-play-state: running;
+      
+  }
+
+  section {
+      text-align:center;
+  }
+
+
+
+

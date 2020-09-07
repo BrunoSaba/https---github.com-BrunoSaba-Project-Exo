@@ -1,0 +1,17 @@
+ .progresso {
+     height: 20px;
+     widows: 500px;
+     border: solid 1px #444444;
+     margin: 20px;
+
+ }
+ .progresso > div {
+     background-color: #30063a6c;
+     color: cornsilk;
+     height: 100%;
+     text-align: right;
+     font-size:14px;
+     width: 0%;
+ }
+
+ 

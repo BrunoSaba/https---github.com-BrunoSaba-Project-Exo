@@ -1,0 +1,13 @@
+footer {
+    color: #555;
+    font-size:12px;
+    margin-top:15em;
+    text-align:center;
+    background-color: lightgrey;
+    }
+    
+    footer a {
+    color:#008FEA;
+    text-decoration:none;
+    
+    }
